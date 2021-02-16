@@ -21,7 +21,7 @@ int main()
         }
     }
 
-    if((Sum1==iNo2)&&(Sum2==iNo2))
+    if((Sum1==iNo2)&&(Sum2==iNo1))
     {
         printf("\n Given Two Number %d & %d is Amicable Number",iNo1,iNo2);
     }
